@@ -127,7 +127,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="Debug.cpp" />
+    <ClCompile Include="Examples.cpp" />
+    <ClCompile Include="Graphics.cpp" />
     <ClCompile Include="GraphicsProject.cpp" />
+    <ClCompile Include="Point.cpp" />
+    <ClCompile Include="Time.cpp" />
+    <ClCompile Include="Window.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Circle.h" />
+    <ClInclude Include="Debug.h" />
+    <ClInclude Include="Graphics.h" />
+    <ClInclude Include="Point.h" />
+    <ClInclude Include="Time.h" />
+    <ClInclude Include="Window.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
