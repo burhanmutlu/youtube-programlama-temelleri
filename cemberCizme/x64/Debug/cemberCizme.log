@@ -1,0 +1,6 @@
+﻿  cemberCizme.cpp
+D:\BST\gitRepo\youtube-cpp-kodları\cemberCizme\cemberCizme.cpp(32,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\BST\gitRepo\youtube-cpp-kodları\cemberCizme\cemberCizme.cpp(33,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\BST\gitRepo\youtube-cpp-kodları\cemberCizme\cemberCizme.cpp(111,9): warning C4101: 'y': unreferenced local variable
+D:\BST\gitRepo\youtube-cpp-kodları\cemberCizme\cemberCizme.cpp(111,6): warning C4101: 'x': unreferenced local variable
+  cemberCizme.vcxproj -> D:\BST\gitRepo\youtube-cpp-kodları\cemberCizme\x64\Debug\cemberCizme.exe

@@ -1,0 +1,21 @@
+# ninja log v5
+1	852	7125872332975401	CMakeFiles/ConvertToBinary.dir/main.cpp.obj	2fdb951ec32c4e97
+1	446	7125872749026928	CMakeFiles/ConvertToBinary.dir/convertBinary.cpp.obj	e0c63caa95de94ed
+446	729	7125872751715856	ConvertToBinary.exe	70528efdc3b513d4
+1	566	7125873987296485	CMakeFiles/ConvertToBinary.dir/convertBinary.cpp.obj	e0c63caa95de94ed
+567	716	7125873988556591	ConvertToBinary.exe	70528efdc3b513d4
+1	569	7125875050837079	CMakeFiles/ConvertToBinary.dir/convertBinary.cpp.obj	e0c63caa95de94ed
+569	717	7125875052057892	ConvertToBinary.exe	70528efdc3b513d4
+1	466	7125876279535267	CMakeFiles/ConvertToBinary.dir/convertBinary.cpp.obj	e0c63caa95de94ed
+466	612	7125876280755270	ConvertToBinary.exe	70528efdc3b513d4
+1	459	7125877063785039	CMakeFiles/ConvertToBinary.dir/convertBinary.cpp.obj	e0c63caa95de94ed
+465	593	7125877064884677	ConvertToBinary.exe	70528efdc3b513d4
+2	559	7125877355881784	CMakeFiles/ConvertToBinary.dir/convertBinary.cpp.obj	e0c63caa95de94ed
+559	705	7125877357071846	ConvertToBinary.exe	70528efdc3b513d4
+1	590	7125877956136079	CMakeFiles/ConvertToBinary.dir/main.cpp.obj	2fdb951ec32c4e97
+591	749	7125877957306102	ConvertToBinary.exe	70528efdc3b513d4
+7	596	7125879421433739	CMakeFiles/ConvertToBinary.dir/convertBinary.cpp.obj	e0c63caa95de94ed
+1	603	7125879421543716	CMakeFiles/ConvertToBinary.dir/main.cpp.obj	2fdb951ec32c4e97
+603	783	7125879423013726	ConvertToBinary.exe	70528efdc3b513d4
+1	559	7125880089976938	CMakeFiles/ConvertToBinary.dir/convertBinary.cpp.obj	e0c63caa95de94ed
+559	718	7125880091207663	ConvertToBinary.exe	70528efdc3b513d4

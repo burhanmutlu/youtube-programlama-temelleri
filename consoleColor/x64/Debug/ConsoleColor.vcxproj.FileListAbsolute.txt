@@ -1,0 +1,2 @@
+D:\BST\gitRepo\youtube-cpp-kodları\turkceKarakter\ConsoleColor\x64\Debug\ConsoleColor.exe
+D:\BST\gitRepo\youtube-cpp-kodları\consoleColor\x64\Debug\ConsoleColor.exe
