@@ -2,6 +2,8 @@
 
 #include <Windows.h>
 
+
+
 class Window {
 public:
 	Window();
@@ -10,7 +12,10 @@ public:
 	int getWindowWidth();
 	int getWindowHeight();
 	HDC getconsoleDC();
+	void setBgColor(COLORREF bgColor);
+	COLORREF getBgColor();
 	void clearDevice();
+	void funmap();
 private:
 	HWND consoleWindow;
 	HDC consoleDC;
@@ -18,6 +23,8 @@ private:
 	CONSOLE_SCREEN_BUFFER_INFO csbi;
 	int width;
 	int height;
+	COLORREF bgColor;
 };
+
 
 

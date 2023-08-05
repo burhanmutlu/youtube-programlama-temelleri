@@ -1,2 +1,3 @@
-﻿  GraphicsProject.cpp
+﻿  Window.cpp
+D:\BST\gitRepo\youtube-cpp-kodları\GraphicsProject\GraphicsProject\Window.cpp(52,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   GraphicsProject.vcxproj -> D:\BST\gitRepo\youtube-cpp-kodları\GraphicsProject\GraphicsProject\x64\Debug\GraphicsProject.exe
